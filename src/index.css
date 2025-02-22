@@ -82,8 +82,8 @@ body {
 }
 
 .square.is-selected {
-  color: #fff;
-  background: #09f;
+  border: 2px solid #2c91f0;
+  color: #eee;
 }
 
 .winner {
